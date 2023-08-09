@@ -1,0 +1,1147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="29">
+  <Forms>
+    <UDF1 Class="TCEForm" Encoding="Ascii85">b7Ej%2nldAU:MM2b.}cxWeIh0Gi32eO*FuxU{W:1%{mcIVgA6t9Fkwa/jxwNnNpI$=7,zGoLEqjnV-i7R=ffx00</UDF1>
+    <CETrainer Class="TTrainerForm" Encoding="Ascii85">g.Py$):ZtJlC{Ao5W6AqClC@M9OKbwp?_w#zzw%Ctu?!KTz5!Zr)HO3LgKjlq.cVf#82P:9QFs8U@jjOS({yCVB-_McAk(-d6I8703[YHw=(AiTr$0+@wdMRo.G9l)%26,yFJFo6J!4dHc;PC1azMA,*V6.8xEo}!/Fndpe-aglV${8s)FP-Bob:Q9KU:Nm!o_+Rdaqx/J[95Y?]^JsDLmH0*lWh6WkPom+Er-AV})LFDqZSW!0^%4ghWeOQ}eS$Ir,Brm(CW3IwhJ/sB(aSUO!QF5mM+cECg:i,vn#co3@sOtZW=O%]VD@rnTa,$D6F:$vV519+k4aAAy,0SuEp67CU[@ebalZOpn]X8e6:;[u)Nr6N:Xbn3!_Q5k;DyjA$!@P]VHKD^lYE#h;1I8,N$MZ1y+RV;kzj#)#q0w3dbVf$.9i1oK^wUCn.(CF:xfp*.ChaqVN%;Ny+eFm:b-T0xLfyTL2%EffZM9?pfE]A:vaH.1nbK5TE^M!AUCY,y#rx**(1S!:8J5oYv7c]8wAK=rQqLf5QzeSt;m-hV4?vp/rS7:*eqd3WMyWwoT.V.XE=;kVACQ8o)m,n@]gKJ8?cz?cI-1;joB=IsW</CETrainer>
+  </Forms>
+  <CheatEntries>
+    <CheatEntry>
+      <ID>7</ID>
+      <Description>"等级"</Description>
+      <Options moHideChildren="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>3</ID>
+          <Description>"久远等级"</Description>
+          <LastState Value="49" RealAddress="00B049B4"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B049B4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>37</ID>
+          <Description>"鵟等级"</Description>
+          <LastState Value="49" RealAddress="00B05454"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B05454</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>49</ID>
+          <Description>"扇等级"</Description>
+          <LastState Value="48" RealAddress="00B056FC"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B056FC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>57</ID>
+          <Description>"莎莎拉等级"</Description>
+          <LastState Value="49" RealAddress="00B07ED4"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B07ED4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>65</ID>
+          <Description>"环等级"</Description>
+          <LastState Value="49" RealAddress="00B07C2C"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B07C2C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>73</ID>
+          <Description>"露露缇耶等级"</Description>
+          <LastState Value="48" RealAddress="00B04F04"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B04F04</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>81</ID>
+          <Description>"阿图依等级"</Description>
+          <LastState Value="48" RealAddress="00B05EF4"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B05EF4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>89</ID>
+          <Description>"亚库托等级"</Description>
+          <LastState Value="48" RealAddress="00B06444"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B06444</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>97</ID>
+          <Description>"奇羽琉等级"</Description>
+          <LastState Value="49" RealAddress="00B05C4C"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B05C4C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>105</ID>
+          <Description>"哈克等级"</Description>
+          <LastState Value="49" RealAddress="00B0470C"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B0470C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>113</ID>
+          <Description>"猫音等级"</Description>
+          <LastState Value="49" RealAddress="00B059A4"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B059A4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>121</ID>
+          <Description>"双子等级"</Description>
+          <LastState Value="48" RealAddress="00B051AC"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B051AC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>131</ID>
+          <Description>"芙米露露等级"</Description>
+          <LastState Value="48" RealAddress="00B06994"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B06994</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>139</ID>
+          <Description>"宗近等级"</Description>
+          <LastState Value="48" RealAddress="00B066EC"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B066EC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>147</ID>
+          <Description>"杏树等级"</Description>
+          <LastState Value="49" RealAddress="00B0619C"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B0619C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>155</ID>
+          <Description>"御雷等级"</Description>
+          <LastState Value="47" RealAddress="00B0718C"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B0718C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>163</ID>
+          <Description>"新哈克等级"</Description>
+          <LastState Value="0" RealAddress="00B0BE84"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B0BE84</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>171</ID>
+          <Description>"伊库塔等级"</Description>
+          <LastState Value="48" RealAddress="00B06C3C"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B06C3C</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>47</ID>
+      <Description>"血量"</Description>
+      <Options moHideChildren="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>48</ID>
+          <Description>"久远血量"</Description>
+          <LastState Value="845" RealAddress="00B049C0"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B049C0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>38</ID>
+          <Description>"鵟血"</Description>
+          <LastState Value="735" RealAddress="00B05460"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"Utawarerumono Mask of Truth.exe"+705460+0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>50</ID>
+          <Description>"扇血量"</Description>
+          <LastState Value="873" RealAddress="00B05708"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B05708</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>58</ID>
+          <Description>"莎莎拉血量"</Description>
+          <LastState Value="954" RealAddress="00B07EE0"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B07EE0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>66</ID>
+          <Description>"环血量"</Description>
+          <LastState Value="898" RealAddress="00B07C38"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B07C38</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>74</ID>
+          <Description>"露露缇耶血量"</Description>
+          <LastState Value="1211" RealAddress="00B04F10"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B04F10</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>82</ID>
+          <Description>"阿图依血量"</Description>
+          <LastState Value="850" RealAddress="00B05F00"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B05F00</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>90</ID>
+          <Description>"亚库托血"</Description>
+          <LastState Value="948" RealAddress="00B06450"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B06450</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>98</ID>
+          <Description>"奇羽琉血量"</Description>
+          <LastState Value="781" RealAddress="00B05C58"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B05C58</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>106</ID>
+          <Description>"哈克血量"</Description>
+          <LastState Value="764" RealAddress="00B04718"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B04718</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>114</ID>
+          <Description>"猫音血量"</Description>
+          <LastState Value="674" RealAddress="00B059B0"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B059B0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>122</ID>
+          <Description>"双子血量"</Description>
+          <LastState Value="593" RealAddress="00B051B8"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B051B8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>132</ID>
+          <Description>"芙米露露血量"</Description>
+          <LastState Value="753" RealAddress="00B069A0"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B069A0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>140</ID>
+          <Description>"宗近血"</Description>
+          <LastState Value="963" RealAddress="00B066F8"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B066F8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>148</ID>
+          <Description>"杏树血"</Description>
+          <LastState Value="950" RealAddress="00B061A8"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B061A8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>156</ID>
+          <Description>"御雷血量"</Description>
+          <LastState Value="1034" RealAddress="00B07198"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B07198</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>164</ID>
+          <Description>"新哈克血"</Description>
+          <LastState Value="0" RealAddress="00B0BEA0"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B0BEA0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>172</ID>
+          <Description>"伊库塔血"</Description>
+          <LastState Value="928" RealAddress="00B06C48"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B06C48</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>8</ID>
+      <Description>"攻击力"</Description>
+      <Options moHideChildren="1" moRecursiveSetValue="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>0</ID>
+          <Description>"久远攻击力"</Description>
+          <LastState Value="71" RealAddress="00B049C4"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"Utawarerumono Mask of Truth.exe"+7049C4+0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>39</ID>
+          <Description>"鵟攻击力"</Description>
+          <LastState Value="71" RealAddress="00B05464"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"Utawarerumono Mask of Truth.exe"+705460+4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>51</ID>
+          <Description>"扇攻击"</Description>
+          <LastState Value="64" RealAddress="00B0570C"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B0570C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>59</ID>
+          <Description>"莎莎拉攻击"</Description>
+          <LastState Value="64" RealAddress="00B07EE4"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B07EE4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>67</ID>
+          <Description>"环攻击"</Description>
+          <LastState Value="68" RealAddress="00B07C3C"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B07C3C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>75</ID>
+          <Description>"露露缇耶攻击力"</Description>
+          <LastState Value="61" RealAddress="00B04F14"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B04F14</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>83</ID>
+          <Description>"阿图依攻击"</Description>
+          <LastState Value="84" RealAddress="00B05F04"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B05F04</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>91</ID>
+          <Description>"亚库托攻击"</Description>
+          <LastState Value="74" RealAddress="00B06454"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B06454</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>99</ID>
+          <Description>"奇羽琉攻击"</Description>
+          <LastState Value="61" RealAddress="00B05C5C"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B05C5C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>107</ID>
+          <Description>"哈克攻击"</Description>
+          <LastState Value="55" RealAddress="00B0471C"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B0471C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>115</ID>
+          <Description>"猫音攻击"</Description>
+          <LastState Value="63" RealAddress="00B059B4"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B059B4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>123</ID>
+          <Description>"双子攻击"</Description>
+          <LastState Value="81" RealAddress="00B051BC"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B051BC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>133</ID>
+          <Description>"芙米露露攻击"</Description>
+          <LastState Value="66" RealAddress="00B069A4"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B069A4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>141</ID>
+          <Description>"宗近攻击"</Description>
+          <LastState Value="73" RealAddress="00B066FC"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B066FC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>149</ID>
+          <Description>"杏树攻击"</Description>
+          <LastState Value="99" RealAddress="00B061AC"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B061AC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>157</ID>
+          <Description>"御雷攻击"</Description>
+          <LastState Value="97" RealAddress="00B0719C"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B0719C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>165</ID>
+          <Description>"新哈克攻击"</Description>
+          <LastState Value="0" RealAddress="00B0BEA4"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B0BEA4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>173</ID>
+          <Description>"伊库塔攻击"</Description>
+          <LastState Value="66" RealAddress="00B06C4C"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B06C4C</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>9</ID>
+      <Description>"防御力"</Description>
+      <Options moHideChildren="1" moRecursiveSetValue="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>1</ID>
+          <Description>"久远防御"</Description>
+          <LastState Value="62" RealAddress="00B049C6"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"Utawarerumono Mask of Truth.exe"+7049C4+2</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>42</ID>
+          <Description>"鵟防御"</Description>
+          <LastState Value="48" RealAddress="00B05466"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B05466</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>52</ID>
+          <Description>"扇防御"</Description>
+          <LastState Value="59" RealAddress="00B0570E"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B0570E</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>60</ID>
+          <Description>"莎莎拉防御"</Description>
+          <LastState Value="66" RealAddress="00B07EE6"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B07EE6</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>68</ID>
+          <Description>"环防御"</Description>
+          <LastState Value="56" RealAddress="00B07C3E"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B07C3E</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>76</ID>
+          <Description>"露露缇耶防御"</Description>
+          <LastState Value="55" RealAddress="00B04F16"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B04F16</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>84</ID>
+          <Description>"阿图依防御"</Description>
+          <LastState Value="60" RealAddress="00B05F06"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B05F06</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>92</ID>
+          <Description>"亚库托防御"</Description>
+          <LastState Value="71" RealAddress="00B06456"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B06456</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>100</ID>
+          <Description>"奇羽琉防御"</Description>
+          <LastState Value="54" RealAddress="00B05C5E"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B05C5E</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>108</ID>
+          <Description>"哈克防御"</Description>
+          <LastState Value="53" RealAddress="00B0471E"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B0471E</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>116</ID>
+          <Description>"猫音防御"</Description>
+          <LastState Value="46" RealAddress="00B059B6"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B059B6</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>124</ID>
+          <Description>"双子防御"</Description>
+          <LastState Value="36" RealAddress="00B051BE"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B051BE</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>134</ID>
+          <Description>"芙米露露防御"</Description>
+          <LastState Value="53" RealAddress="00B069A6"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B069A6</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>142</ID>
+          <Description>"宗近防御"</Description>
+          <LastState Value="93" RealAddress="00B066FE"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B066FE</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>150</ID>
+          <Description>"杏树防御"</Description>
+          <LastState Value="39" RealAddress="00B061AE"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B061AE</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>158</ID>
+          <Description>"御雷防御"</Description>
+          <LastState Value="58" RealAddress="00B0719E"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B0719E</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>166</ID>
+          <Description>"新哈克防御"</Description>
+          <LastState Value="0" RealAddress="00B0BEA6"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B0BEA6</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>174</ID>
+          <Description>"伊库塔防御"</Description>
+          <LastState Value="69" RealAddress="00B06C4E"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B06C4E</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>10</ID>
+      <Description>"速度"</Description>
+      <Options moHideChildren="1" moRecursiveSetValue="1" moActivateChildrenAsWell="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>2</ID>
+          <Description>"久远速度"</Description>
+          <LastState Value="108" RealAddress="00B049C8"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"Utawarerumono Mask of Truth.exe"+7049C4+4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>43</ID>
+          <Description>"鵟速度"</Description>
+          <LastState Value="110" RealAddress="00B05468"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B05468</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>53</ID>
+          <Description>"扇速度"</Description>
+          <LastState Value="120" RealAddress="00B05710"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B05710</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>61</ID>
+          <Description>"莎莎拉速度"</Description>
+          <LastState Value="98" RealAddress="00B07EE8"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B07EE8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>69</ID>
+          <Description>"环速度"</Description>
+          <LastState Value="102" RealAddress="00B07C40"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B07C40</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>77</ID>
+          <Description>"露露缇耶速度"</Description>
+          <LastState Value="90" RealAddress="00B04F18"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B04F18</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>85</ID>
+          <Description>"阿图依速度"</Description>
+          <LastState Value="105" RealAddress="00B05F08"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B05F08</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>93</ID>
+          <Description>"亚库托速度"</Description>
+          <LastState Value="92" RealAddress="00B06458"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B06458</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>101</ID>
+          <Description>"奇羽琉速度"</Description>
+          <LastState Value="102" RealAddress="00B05C60"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B05C60</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>109</ID>
+          <Description>"哈克速度"</Description>
+          <LastState Value="100" RealAddress="00B04720"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B04720</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>117</ID>
+          <Description>"猫音速度"</Description>
+          <LastState Value="100" RealAddress="00B059B8"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B059B8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>125</ID>
+          <Description>"双子速度"</Description>
+          <LastState Value="88" RealAddress="00B051C0"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B051C0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>135</ID>
+          <Description>"芙米露露速度"</Description>
+          <LastState Value="90" RealAddress="00B069A8"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B069A8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>143</ID>
+          <Description>"宗近速度"</Description>
+          <LastState Value="102" RealAddress="00B06700"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B06700</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>151</ID>
+          <Description>"杏树速度"</Description>
+          <LastState Value="109" RealAddress="00B061B0"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B061B0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>159</ID>
+          <Description>"御雷速度"</Description>
+          <LastState Value="125" RealAddress="00B071A0"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B071A0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>167</ID>
+          <Description>"新哈克速度"</Description>
+          <LastState Value="0" RealAddress="00B0BEA8"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B0BEA8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>175</ID>
+          <Description>"伊库塔速度"</Description>
+          <LastState Value="100" RealAddress="00B06C50"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B06C50</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>13</ID>
+      <Description>"移动"</Description>
+      <Options moHideChildren="1" moRecursiveSetValue="1" moActivateChildrenAsWell="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>4</ID>
+          <Description>"久远移动"</Description>
+          <LastState Value="99" Activated="1" RealAddress="00B049CC"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B049CC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>44</ID>
+          <Description>"鵟移动"</Description>
+          <LastState Value="99" Activated="1" RealAddress="00B0546C"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B0546C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>54</ID>
+          <Description>"扇移动"</Description>
+          <LastState Value="99" Activated="1" RealAddress="00B05714"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B05714</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>62</ID>
+          <Description>"莎莎拉移动"</Description>
+          <LastState Value="99" Activated="1" RealAddress="00B07EEC"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B07EEC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>70</ID>
+          <Description>"环移动"</Description>
+          <LastState Value="99" Activated="1" RealAddress="00B07C44"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B07C44</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>78</ID>
+          <Description>"露露缇耶移动"</Description>
+          <LastState Value="99" Activated="1" RealAddress="00B04F1C"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B04F1C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>86</ID>
+          <Description>"阿图依移动"</Description>
+          <LastState Value="99" Activated="1" RealAddress="00B05F0C"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B05F0C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>94</ID>
+          <Description>"亚库托移动"</Description>
+          <LastState Value="99" Activated="1" RealAddress="00B0645C"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B0645C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>102</ID>
+          <Description>"奇羽琉移动"</Description>
+          <LastState Value="99" Activated="1" RealAddress="00B05C64"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B05C64</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>110</ID>
+          <Description>"哈克移动"</Description>
+          <LastState Value="99" Activated="1" RealAddress="00B04724"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B04724</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>118</ID>
+          <Description>"猫音移动"</Description>
+          <LastState Value="99" Activated="1" RealAddress="00B059BC"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B059BC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>126</ID>
+          <Description>"双子移动"</Description>
+          <LastState Value="99" Activated="1" RealAddress="00B051C4"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B051C4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>136</ID>
+          <Description>"芙米露露移动"</Description>
+          <LastState Value="99" Activated="1" RealAddress="00B069AC"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B069AC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>144</ID>
+          <Description>"宗近移动"</Description>
+          <LastState Value="99" Activated="1" RealAddress="00B06704"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B06704</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>152</ID>
+          <Description>"杏树移动"</Description>
+          <LastState Value="99" Activated="1" RealAddress="00B061B4"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B061B4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>160</ID>
+          <Description>"御雷移动"</Description>
+          <LastState Value="99" Activated="1" RealAddress="00B071A4"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B071A4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>168</ID>
+          <Description>"新哈克移动"</Description>
+          <LastState Value="99" Activated="1" RealAddress="00B0BEAC"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B0BEAC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>176</ID>
+          <Description>"伊库塔移动"</Description>
+          <LastState Value="99" Activated="1" RealAddress="00B06C54"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B06C54</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>11</ID>
+      <Description>"跳跃"</Description>
+      <Options moHideChildren="1" moRecursiveSetValue="1" moActivateChildrenAsWell="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>5</ID>
+          <Description>"久远跳跃"</Description>
+          <LastState Value="15" Activated="1" RealAddress="00B049CE"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B049CE</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>45</ID>
+          <Description>"鵟跳"</Description>
+          <LastState Value="15" Activated="1" RealAddress="00B0546E"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B0546E</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>55</ID>
+          <Description>"扇跳"</Description>
+          <LastState Value="15" Activated="1" RealAddress="00B05716"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B05716</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>63</ID>
+          <Description>"莎莎拉跳"</Description>
+          <LastState Value="15" Activated="1" RealAddress="00B07EEE"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B07EEE</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>71</ID>
+          <Description>"环跳跃"</Description>
+          <LastState Value="15" Activated="1" RealAddress="00B07C46"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B07C46</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>79</ID>
+          <Description>"露露缇耶跳跃"</Description>
+          <LastState Value="15" Activated="1" RealAddress="00B04F1E"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B04F1E</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>87</ID>
+          <Description>"阿图依跳跃"</Description>
+          <LastState Value="15" Activated="1" RealAddress="00B05F0E"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B05F0E</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>95</ID>
+          <Description>"亚库托跳跃"</Description>
+          <LastState Value="15" Activated="1" RealAddress="00B0645E"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B0645E</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>103</ID>
+          <Description>"奇羽琉跳"</Description>
+          <LastState Value="15" Activated="1" RealAddress="00B05C66"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B05C66</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>111</ID>
+          <Description>"哈克跳"</Description>
+          <LastState Value="15" Activated="1" RealAddress="00B04726"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B04726</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>119</ID>
+          <Description>"猫音跳"</Description>
+          <LastState Value="15" Activated="1" RealAddress="00B059BE"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B059BE</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>127</ID>
+          <Description>"双子跳"</Description>
+          <LastState Value="15" Activated="1" RealAddress="00B051C6"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B051C6</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>137</ID>
+          <Description>"芙米露露跳跃"</Description>
+          <LastState Value="15" Activated="1" RealAddress="00B069AE"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B069AE</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>145</ID>
+          <Description>"宗近跳跃"</Description>
+          <LastState Value="15" Activated="1" RealAddress="00B06706"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B06706</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>153</ID>
+          <Description>"杏树跳"</Description>
+          <LastState Value="15" Activated="1" RealAddress="00B061B6"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B061B6</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>161</ID>
+          <Description>"御雷跳"</Description>
+          <LastState Value="15" Activated="1" RealAddress="00B071A6"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B071A6</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>169</ID>
+          <Description>"新哈克跳"</Description>
+          <LastState Value="15" Activated="1" RealAddress="00B0BEAE"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B0BEAE</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>177</ID>
+          <Description>"伊库塔跳"</Description>
+          <LastState Value="15" Activated="1" RealAddress="00B06C56"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B06C56</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>12</ID>
+      <Description>"装备槽数量"</Description>
+      <Options moHideChildren="1" moRecursiveSetValue="1" moActivateChildrenAsWell="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>6</ID>
+          <Description>"久远装备"</Description>
+          <LastState Value="4" Activated="1" RealAddress="00B04A90"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B04A90</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>46</ID>
+          <Description>"鵟装备"</Description>
+          <LastState Value="4" Activated="1" RealAddress="00B05530"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B05530</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>56</ID>
+          <Description>"扇装备"</Description>
+          <LastState Value="4" Activated="1" RealAddress="00B057D8"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B057D8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>64</ID>
+          <Description>"莎莎拉装备"</Description>
+          <LastState Value="4" Activated="1" RealAddress="00B07FB0"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B07FB0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>72</ID>
+          <Description>"环装备"</Description>
+          <LastState Value="4" Activated="1" RealAddress="00B07D08"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B07D08</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>80</ID>
+          <Description>"露露缇耶装备"</Description>
+          <LastState Value="4" Activated="1" RealAddress="00B04FE0"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B04FE0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>88</ID>
+          <Description>"阿图依装备"</Description>
+          <LastState Value="4" Activated="1" RealAddress="00B05FD0"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B05FD0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>96</ID>
+          <Description>"亚库托装备"</Description>
+          <LastState Value="4" Activated="1" RealAddress="00B06520"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B06520</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>104</ID>
+          <Description>"奇羽琉装备"</Description>
+          <LastState Value="4" Activated="1" RealAddress="00B05D28"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B05D28</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>112</ID>
+          <Description>"哈克装备"</Description>
+          <LastState Value="4" Activated="1" RealAddress="00B047E8"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B047E8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>120</ID>
+          <Description>"猫音装备"</Description>
+          <LastState Value="4" Activated="1" RealAddress="00B05A80"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B05A80</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>128</ID>
+          <Description>"双子装备"</Description>
+          <LastState Value="4" Activated="1" RealAddress="00B05288"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B05288</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>138</ID>
+          <Description>"芙米露露装备"</Description>
+          <LastState Value="4" Activated="1" RealAddress="00B06A70"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B06A70</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>146</ID>
+          <Description>"宗近装备"</Description>
+          <LastState Value="4" Activated="1" RealAddress="00B067C8"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B067C8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>154</ID>
+          <Description>"杏树装备"</Description>
+          <LastState Value="4" Activated="1" RealAddress="00B06278"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B06278</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>162</ID>
+          <Description>"御雷装备"</Description>
+          <LastState Value="4" Activated="1" RealAddress="00B07268"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B07268</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>170</ID>
+          <Description>"新哈克装备"</Description>
+          <LastState Value="4" Activated="1" RealAddress="00B0BF70"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B0BF70</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>178</ID>
+          <Description>"伊库塔装备"</Description>
+          <LastState Value="4" Activated="1" RealAddress="00B06D18"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>00B06D18</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>14</ID>
+      <Description>"BP"</Description>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>129</ID>
+      <Description>"无描述"</Description>
+      <LastState Value="20" RealAddress="00B0E9DB"/>
+      <VariableType>Byte</VariableType>
+      <Address>"Utawarerumono Mask of Truth.exe"+70E9DB</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>130</ID>
+      <Description>"物品栏目起始"</Description>
+      <LastState Value="20" RealAddress="00B0E5F3"/>
+      <VariableType>Byte</VariableType>
+      <Address>00B0E5F3</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+  <Comments>关于表格信息:
+</Comments>
+  <LuaScript>--TRAINERGENERATORSTART--
+--这是自动生成的代码. 请在此区域内个修改代码
+--如果你更新了修改器代码，将被删除并重新写入
+
+--Uncomment the following line if this is a Cheat Table format trainer and you don't want CE to show (Tip, save as .CETRAINER alternatively)
+--hideAllCEWindows()
+
+RequiredCEVersion=7
+if (getCEVersion==nil) or (getCEVersion()&lt;RequiredCEVersion) then
+  messageDialog('Please install Cheat Engine '..RequiredCEVersion, mtError, mbOK)
+  closeCE()
+end
+addresslist=getAddressList()
+
+
+CETrainer.SEPERATOR.Visible=false
+
+getAutoAttachList().add("Utawarerumono Mask of Deception.exe")
+gPlaySoundOnAction=false
+CETrainer.show()
+function AboutClick()
+  showMessage(gAboutText)
+end
+gAboutText=[[This trainer was made by Cheat 
+Engine
+www.cheatengine.org]]
+
+function CloseClick()
+  --called by the close button onClick event, and when closing the form
+  closeCE()
+  return caFree --onClick doesn't care, but onClose would like a result
+end
+
+--TRAINERGENERATORSTOP--
+</LuaScript>
+</CheatTable>
